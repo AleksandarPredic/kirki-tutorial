@@ -1,6 +1,6 @@
 /*
  Theme Name:   Twenty Sixteen Child
- Theme URI:    http://mysite.com/twenty-fifteen-child/
+ Theme URI:    http://mysite.com/twenty-sixteen-child/
  Description:  Twenty Sixteen Child Theme
  Author:       Author name
  Author URI:   http://mysite.com
@@ -12,4 +12,5 @@
  Text Domain:  twenty-sixteen-child
 */
 
+/* Also possible to enqueue style via wp_enqueue_scripts action hook */
 @import '../twentysixteen/style.css';
